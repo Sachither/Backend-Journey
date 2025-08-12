@@ -1,0 +1,6 @@
+CLI Task Tracker - Simple CLI to manage tasks
+Todo List API - CRUD RESTful API
+Expense Tracker API
+Weather Data API
+Note-taking Markdown API
+URL Shortener Service
