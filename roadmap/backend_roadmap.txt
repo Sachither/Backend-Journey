@@ -4,7 +4,7 @@ BACKEND DEVELOPMENT JOURNEY — ONE CONCEPT, ONE PROJECT AT A TIME
 This roadmap is structured around core backend concepts. Each week focuses on one concept and a small project to apply it.
 
 Week 1 – Language Foundations
-- Choose: Python or Node.js
+- Choose: Python 
 - Project: Command-line To-Do App using file-based storage
 - Concepts: CRUD, file I/O, modules, clean code
 
@@ -13,7 +13,7 @@ Week 2 – Version Control (Git)
 - Concepts: git init, commit history, branches, remote GitHub repo, README
 
 Week 3 – Databases
-- Integrate: SQLite (Python) or MongoDB (Node.js)
+- Integrate: SQLite, Postgres (Python) 
 - Project: Swap file-based storage to database, perform CRUD
 - Concepts: Schema design, basic queries
 
