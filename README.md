@@ -4,7 +4,7 @@ This repository documents my backend developer pathway, focusing on learning one
 
 ## What’s Inside:
 - **roadmap/**: Long-term concept roadmap & 30-day learning calendar
-- **project-ideas.txt**: A list of backend project prompts (inspired by roadmap.sh) :contentReference[oaicite:0]{index=0}
+- **project-ideas.txt**: A list of backend project
 - **writeups/**: Markdown writeups for each project
 - **tools-notes/**: Concept-specific notes (e.g., Git, Auth)
 - **templates/**: Reusable writeup template
