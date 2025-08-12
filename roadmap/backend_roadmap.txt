@@ -1,0 +1,47 @@
+BACKEND DEVELOPMENT JOURNEY — ONE CONCEPT, ONE PROJECT AT A TIME
+----------------------------------------------------------------
+
+This roadmap is structured around core backend concepts. Each week focuses on one concept and a small project to apply it.
+
+Week 1 – Language Foundations
+- Choose: Python or Node.js
+- Project: Command-line To-Do App using file-based storage
+- Concepts: CRUD, file I/O, modules, clean code
+
+Week 2 – Version Control (Git)
+- Project: Add Git version control to To-Do App
+- Concepts: git init, commit history, branches, remote GitHub repo, README
+
+Week 3 – Databases
+- Integrate: SQLite (Python) or MongoDB (Node.js)
+- Project: Swap file-based storage to database, perform CRUD
+- Concepts: Schema design, basic queries
+
+Week 4 – REST API
+- Project: Convert To-Do App into RESTful API (GET, POST, PUT, DELETE)
+- Concepts: HTTP methods, routing, JSON responses
+
+Week 5 – Authentication
+- Add: JWT (or session) authentication to API endpoints
+- Concepts: Token handling, middleware protection
+
+Week 6 – Testing & Validation
+- Add: Unit tests and input validation
+- Concepts: Auto testing, validation, code reliability
+
+Week 7 – Caching & Optimization
+- Add: Caching layer (in-memory or Redis)
+- Project: Cache GET responses
+- Concepts: Performance, state management
+
+Week 8 – Deployment
+- Deploy App: Heroku, Render, or Docker
+- Concepts: Environment variables, cloud deployment
+
+Week 9 – Logging & Monitoring
+- Add: Structured logging and health-check endpoint
+- Concepts: Error tracking, uptime monitoring
+
+Week 10 – Final Project & Documentation
+- Bundle all features into one project
+- Write README + reflections + code documentation
