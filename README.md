@@ -14,5 +14,8 @@ This repository documents my backend developer pathway, focusing on learning one
 - Document every step as portfolio-ready work
 - Progress with structure and consistency
 
+## Projects
+- **[CLI TODO App](https://github.com/Sachither/CLI-TODO_App)**: A command-line application built in Python to manage tasks, showcasing my knowledge of CRUD operations (Create, Read, Update, Delete). Features include adding, updating, deleting, and viewing tasks with input validation and persistent storage using a text file.
+
 ---
 
